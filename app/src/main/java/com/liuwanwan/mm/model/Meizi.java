@@ -1,8 +1,5 @@
 package com.liuwanwan.mm.model;
 
-/**
- * Created by fallb on 2016/3/12.
- */
 public class Meizi {
     private String titleOfMeizi;
     private String urlOfMeizi;
